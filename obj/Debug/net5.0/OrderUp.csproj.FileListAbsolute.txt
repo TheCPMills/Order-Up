@@ -1,0 +1,16 @@
+C:\Users\cpmil\OneDrive\Desktop\OrderUp\obj\Debug\net5.0\OrderUp.csprojAssemblyReference.cache
+C:\Users\cpmil\OneDrive\Desktop\OrderUp\obj\Debug\net5.0\OrderUp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cpmil\OneDrive\Desktop\OrderUp\obj\Debug\net5.0\OrderUp.AssemblyInfoInputs.cache
+C:\Users\cpmil\OneDrive\Desktop\OrderUp\obj\Debug\net5.0\OrderUp.AssemblyInfo.cs
+C:\Users\cpmil\OneDrive\Desktop\OrderUp\obj\Debug\net5.0\OrderUp.csproj.CoreCompileInputs.cache
+C:\Users\cpmil\OneDrive\Desktop\OrderUp\bin\Debug\net5.0\OrderUp.exe
+C:\Users\cpmil\OneDrive\Desktop\OrderUp\bin\Debug\net5.0\OrderUp.deps.json
+C:\Users\cpmil\OneDrive\Desktop\OrderUp\bin\Debug\net5.0\OrderUp.runtimeconfig.json
+C:\Users\cpmil\OneDrive\Desktop\OrderUp\bin\Debug\net5.0\OrderUp.runtimeconfig.dev.json
+C:\Users\cpmil\OneDrive\Desktop\OrderUp\bin\Debug\net5.0\OrderUp.dll
+C:\Users\cpmil\OneDrive\Desktop\OrderUp\bin\Debug\net5.0\ref\OrderUp.dll
+C:\Users\cpmil\OneDrive\Desktop\OrderUp\bin\Debug\net5.0\OrderUp.pdb
+C:\Users\cpmil\OneDrive\Desktop\OrderUp\obj\Debug\net5.0\OrderUp.dll
+C:\Users\cpmil\OneDrive\Desktop\OrderUp\obj\Debug\net5.0\ref\OrderUp.dll
+C:\Users\cpmil\OneDrive\Desktop\OrderUp\obj\Debug\net5.0\OrderUp.pdb
+C:\Users\cpmil\OneDrive\Desktop\OrderUp\obj\Debug\net5.0\OrderUp.genruntimeconfig.cache
